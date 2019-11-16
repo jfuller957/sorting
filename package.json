@@ -1,0 +1,22 @@
+{
+  "name": "sorting",
+  "version": "1.0.0",
+  "description": "sorting",
+  "main": "bubblesort.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jfuller957/sorting.git"
+  },
+  "author": "Arthur Shruti and James",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jfuller957/sorting/issues"
+  },
+  "homepage": "https://github.com/jfuller957/sorting#readme",
+  "dependencies": {
+    "jasmine": "^3.5.0"
+  }
+}
