@@ -1,4 +1,4 @@
-const bubbleSort = require("./bubblesort")
+const bubbleSort = require("../bubblesort")
 
 describe('Bubble Sort', function() {
   it('handles an empty array', function() {
